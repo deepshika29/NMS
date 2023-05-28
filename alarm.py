@@ -1,7 +1,7 @@
 import time
 
 # Calculate the duration of 5 minutes in seconds
-duration = 2 * 60
+duration = 10 * 60
 
 # Get the current time
 start_time = time.time()
